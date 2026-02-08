@@ -14,6 +14,5 @@ Mesure du l'humidité de sol avec Raspberry Pi
 - Raspberry Pi
 - Capteur d’humidité du sol numérique
 - Langage Python
-
 ## Auteur
 Samar Sifaoui
